@@ -10,13 +10,11 @@
 
 ## 🙋‍♂️ About Me
 
-I am a **Research Candidate** and **Full-Stack Developer** specializing in AI-driven solutions. I build intelligent systems that solve real-world problems with elegant code and beautiful design.
+I am a **Full-Stack Developer** and **AI Research Candidate** from Pakistan, specializing in healthcare technology solutions. With 2+ years of development experience, I focus on building intelligent systems that solve real-world problems through clean code and data-driven insights.
 
-**Current Focus:**
-- Medical AI Research & Development
-- Full-Stack Web & Mobile Applications  
-- User-Centric Interface Design
-- Data-Driven Decision Making
+**Key Expertise:** Full-Stack Web Development • Medical AI Research • Data Analytics • JavaScript Frontend • Healthcare Solutions
+
+**Current Focus:** Bridging the gap between cutting-edge AI research and practical healthcare applications while developing scalable web solutions.
 
 ---
 
@@ -192,14 +190,34 @@ I am a **Research Candidate** and **Full-Stack Developer** specializing in AI-dr
 <a href="mailto:imtishalabid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+
+## 🏆 Philosophy
+
+<div align="center">
+
+*"Code with purpose, design with intention — AI should enhance human capabilities, not replace human connection."*
+
+**I build:** Clean, scalable solutions • Data-driven insights • User-centric interfaces • Intelligent healthcare systems
+
+</div>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=764BA2&height=100&section=footer" />
 </p>
 
 <div align="center">
-  
-**Thanks for visiting my profile!**
-  
-*Made with passion and dedication*
+
+**⭐ If you find my work interesting, consider giving it a star! ⭐**
+
+*Let's build something innovative together.* 🚀
+
+**© 2026 Imtishal Abid | Full-Stack Developer & AI Research Candidate**
+
+*Open to opportunities & collaborations*
+
+<img src="https://img.shields.io/badge/Made_with-❤️_&_lots_of_☕-red?style=for-the-badge&logoColor=white" />
 
 </div>
