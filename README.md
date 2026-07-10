@@ -1,12 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Imtishal%20Abid&fontSize=60&animation=fadeIn&desc=Full-Stack%20Developer%20|%20ML%20Engineer%20|%20AI%20Research%20Candidate&descSize=20&descAlignY=65" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=764BA2&height=140&section=header&text=Imtishal%20Abid&fontSize=55&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=764BA2&center=true&vCenter=true&width=500&lines=Assalam-o-Alaikum!;Full-Stack+Developer;AI+Research+Candidate;University+of+Gujrat+Scholar" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1500&color=764BA2&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+ML+Engineer+%7C+AI+Research+Candidate;Turning+Ideas+Into+Intelligent+Solutions" alt="Typing SVG" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764BA2&height=3&width=1000&section=footer" width="100%" />
+<img src="https://img.shields.io/badge/FULL_STACK-a78bfa?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/ML_ENGINEER-ec4899?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_RESEARCH-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-333333?style=for-the-badge" /><img src="https://komarev.com/ghpvc/?username=Imtishal-Abid&style=for-the-badge&color=a78bfa&label=" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764BA2&height=2&width=1000" width="100%" />
 
 ## 🙋‍♂️ About Me
 
@@ -16,7 +21,7 @@ I am a **Full-Stack Developer** and **AI Research Candidate** from Pakistan, spe
 
 **Current Focus:** Bridging the gap between cutting-edge AI research and practical healthcare applications while developing scalable web solutions.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764BA2&height=2&width=1000" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +44,7 @@ I am a **Full-Stack Developer** and **AI Research Candidate** from Pakistan, spe
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764BA2&height=2&width=1000" width="100%" />
 
 ## 📊 GitHub Analytics
 
@@ -52,14 +57,14 @@ I am a **Full-Stack Developer** and **AI Research Candidate** from Pakistan, spe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtishal-Abid&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764BA2&height=2&width=1000" width="100%" />
 
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Imtishal-Abid/Imtishal-Abid/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764BA2&height=2&width=1000" width="100%" />
 
 ## 🔭 Currently Working On
 
@@ -122,7 +127,7 @@ I am a **Full-Stack Developer** and **AI Research Candidate** from Pakistan, spe
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764BA2&height=2&width=1000" width="100%" />
 
 ## 🌱 Currently Learning
 
@@ -181,7 +186,7 @@ I am a **Full-Stack Developer** and **AI Research Candidate** from Pakistan, spe
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764BA2&height=2&width=1000" width="100%" />
 
 ## 🤝 Let's Connect
 
@@ -190,23 +195,19 @@ I am a **Full-Stack Developer** and **AI Research Candidate** from Pakistan, spe
 <a href="mailto:imtishalabid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764BA2&height=2&width=1000" width="100%" />
 
-## 🏆 Philosophy
+## 🧭 My Approach
 
 <div align="center">
 
-*"Code with purpose, design with intention — AI should enhance human capabilities, not replace human connection."*
+*"I don't just write code — I try to understand the problem deeply enough that the solution becomes obvious."*
 
-**I build:** Clean, scalable solutions • Data-driven insights • User-centric interfaces • Intelligent healthcare systems
+Coming from a healthcare-tech background, I believe technology only matters if it actually helps people — so I care as much about **why** I'm building something as **how** I build it.
+
+**What drives me:** Clean, maintainable code • Research-backed decisions • Real-world impact over hype • Learning something new with every project
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=764BA2&height=100&section=footer" />
-</p>
 
 <div align="center">
 
@@ -221,3 +222,7 @@ I am a **Full-Stack Developer** and **AI Research Candidate** from Pakistan, spe
 <img src="https://img.shields.io/badge/Made_with-❤️_&_lots_of_☕-red?style=for-the-badge&logoColor=white" />
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=764BA2&height=100&section=footer" width="100%" />
+</p>
